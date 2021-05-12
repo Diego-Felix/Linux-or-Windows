@@ -1,0 +1,13 @@
+img {
+    width: 15%;
+    height: auto;
+}
+
+td#image {
+    width: 100px;
+}
+
+td img {
+    width: 100%;
+}
+
